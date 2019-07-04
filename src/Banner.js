@@ -24,8 +24,8 @@ export default class Banner extends React.Component{
                 >
 
                 <img src="https://www.valuecoders.com/blog/wp-content/uploads/2016/08/react.png" className="img-res" alt="not found" />
-                <img src="https://www.valuecoders.com/blog/wp-content/uploads/2016/08/react.png" className="img-res" alt="not found" />
-                <img src="https://www.valuecoders.com/blog/wp-content/uploads/2016/08/react.png" className="img-res" alt="not found" />
+                <img src="https://letzgro.net/wp-content/uploads/2015/12/banners%D1%83%D1%83.png" className="img-res" alt="not found" />
+                <img src="https://etgeekera.files.wordpress.com/2016/01/react-world-banner.jpg" className="img-res" alt="not found" />
                     
                 </Slider>
             </div>
