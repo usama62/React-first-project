@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi&display=swap');
+
+.card{
+    font-family: 'Gugi', cursive;
+}
+
+.heading{
+    font-family: 'Gugi', cursive;
+}
+
+.card img{
+    width: 200px;
+    height: 200px;
+}
